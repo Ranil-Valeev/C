@@ -1,0 +1,21 @@
+Hello world!
+This is a test file for s21_grep testing.
+Multiple lines with different patterns.
+
+Some lines contain the word PATTERN in uppercase.
+Some lines contain pattern in lowercase.
+Some lines have mixed Case Pattern.
+
+We can test regular expressions here:
+abc123
+def456
+ghi789
+
+Special characters: . * [ ] ^ $ 
+Email example: test@example.com
+URL example: http://example.com
+Date: 2024-01-15
+
+Empty lines above and below:
+
+End of file.

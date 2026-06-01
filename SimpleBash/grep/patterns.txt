@@ -1,0 +1,5 @@
+pattern
+test
+example
+[0-9]+
+http://
